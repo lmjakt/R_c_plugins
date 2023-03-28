@@ -21,6 +21,11 @@ returns a vector of counts for all possible kmers.
 A function to spread points in an orthogonal dimension to decrease crowding of points.
 Useful for 1 dimensional scatter plots.
 
+## paf/
+
+C and R functions for handling files in paf (pair alignment format) files. Limited to short
+cs strings.
+
 ## Usage
 
 For each source file <source.c>:
